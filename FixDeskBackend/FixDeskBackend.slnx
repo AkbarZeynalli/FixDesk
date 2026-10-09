@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="FixDesk.Api/FixDesk.Api.csproj" />
+  <Project Path="FixDesk.Business/FixDesk.Business.csproj" />
+  <Project Path="FixDesk.DataAccess/FixDesk.DataAccess.csproj" />
+  <Project Path="FixDesk.Entities/FixDesk.Entities.csproj" />
+</Solution>

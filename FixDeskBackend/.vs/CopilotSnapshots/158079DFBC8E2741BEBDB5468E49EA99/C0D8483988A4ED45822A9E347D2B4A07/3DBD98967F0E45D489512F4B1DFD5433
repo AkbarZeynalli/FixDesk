@@ -1,0 +1,18 @@
+﻿{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "JwtSettings": {
+    "SecretKey": "FixDesk_Super_Secret_Security_Key_2026_Secure_Backend!",
+    "Issuer": "FixDeskBackend",
+    "Audience": "FixDeskClients",
+    "ExpirationInDays": 7
+  },
+  "ConnectionStrings": {
+    "DefaultConnection": ""
+  }
+}

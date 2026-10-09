@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\FixDesk\\FixDeskBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A575B316-1D36-BE27-EEF2-1817A0DD884B}|FixDesk.Api\\FixDesk.Api.csproj|e:\\fixdesk\\fixdeskbackend\\fixdesk.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A575B316-1D36-BE27-EEF2-1817A0DD884B}|FixDesk.Api\\FixDesk.Api.csproj|solutionrelative:fixdesk.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A575B316-1D36-BE27-EEF2-1817A0DD884B}|FixDesk.Api\\FixDesk.Api.csproj|e:\\fixdesk\\fixdeskbackend\\fixdesk.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A575B316-1D36-BE27-EEF2-1817A0DD884B}|FixDesk.Api\\FixDesk.Api.csproj|solutionrelative:fixdesk.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3a0279d4-1a5c-4f7e-97c2-ec06915e7142}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\FixDesk\\FixDeskBackend\\FixDesk.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "FixDesk.Api\\appsettings.Development.json",
+              "ToolTip": "E:\\FixDesk\\FixDeskBackend\\FixDesk.Api\\appsettings.Development.json",
+              "RelativeToolTip": "FixDesk.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-09T12:12:41.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\FixDesk\\FixDeskBackend\\FixDesk.Api\\Program.cs",
+              "RelativeDocumentMoniker": "FixDesk.Api\\Program.cs",
+              "ToolTip": "E:\\FixDesk\\FixDeskBackend\\FixDesk.Api\\Program.cs",
+              "RelativeToolTip": "FixDesk.Api\\Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAHEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T09:00:34.672Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

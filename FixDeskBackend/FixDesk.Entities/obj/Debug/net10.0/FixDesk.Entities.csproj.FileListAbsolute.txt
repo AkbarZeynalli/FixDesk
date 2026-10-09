@@ -1,0 +1,11 @@
+E:\FixDesk\FixDeskBackend\FixDesk.Entities\bin\Debug\net10.0\FixDesk.Entities.deps.json
+E:\FixDesk\FixDeskBackend\FixDesk.Entities\bin\Debug\net10.0\FixDesk.Entities.dll
+E:\FixDesk\FixDeskBackend\FixDesk.Entities\bin\Debug\net10.0\FixDesk.Entities.pdb
+E:\FixDesk\FixDeskBackend\FixDesk.Entities\obj\Debug\net10.0\FixDesk.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\FixDesk\FixDeskBackend\FixDesk.Entities\obj\Debug\net10.0\FixDesk.Entities.AssemblyInfoInputs.cache
+E:\FixDesk\FixDeskBackend\FixDesk.Entities\obj\Debug\net10.0\FixDesk.Entities.AssemblyInfo.cs
+E:\FixDesk\FixDeskBackend\FixDesk.Entities\obj\Debug\net10.0\FixDesk.Entities.csproj.CoreCompileInputs.cache
+E:\FixDesk\FixDeskBackend\FixDesk.Entities\obj\Debug\net10.0\FixDesk.Entities.dll
+E:\FixDesk\FixDeskBackend\FixDesk.Entities\obj\Debug\net10.0\refint\FixDesk.Entities.dll
+E:\FixDesk\FixDeskBackend\FixDesk.Entities\obj\Debug\net10.0\FixDesk.Entities.pdb
+E:\FixDesk\FixDeskBackend\FixDesk.Entities\obj\Debug\net10.0\ref\FixDesk.Entities.dll

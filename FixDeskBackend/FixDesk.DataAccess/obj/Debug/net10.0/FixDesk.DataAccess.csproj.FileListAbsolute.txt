@@ -1,0 +1,17 @@
+E:\FixDesk\FixDeskBackend\FixDesk.DataAccess\bin\Debug\net10.0\FixDesk.DataAccess.deps.json
+E:\FixDesk\FixDeskBackend\FixDesk.DataAccess\bin\Debug\net10.0\FixDesk.DataAccess.runtimeconfig.json
+E:\FixDesk\FixDeskBackend\FixDesk.DataAccess\bin\Debug\net10.0\FixDesk.DataAccess.dll
+E:\FixDesk\FixDeskBackend\FixDesk.DataAccess\bin\Debug\net10.0\FixDesk.DataAccess.pdb
+E:\FixDesk\FixDeskBackend\FixDesk.DataAccess\bin\Debug\net10.0\FixDesk.Entities.dll
+E:\FixDesk\FixDeskBackend\FixDesk.DataAccess\bin\Debug\net10.0\FixDesk.Entities.pdb
+E:\FixDesk\FixDeskBackend\FixDesk.DataAccess\obj\Debug\net10.0\FixDesk.DataAccess.csproj.AssemblyReference.cache
+E:\FixDesk\FixDeskBackend\FixDesk.DataAccess\obj\Debug\net10.0\FixDesk.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\FixDesk\FixDeskBackend\FixDesk.DataAccess\obj\Debug\net10.0\FixDesk.DataAccess.AssemblyInfoInputs.cache
+E:\FixDesk\FixDeskBackend\FixDesk.DataAccess\obj\Debug\net10.0\FixDesk.DataAccess.AssemblyInfo.cs
+E:\FixDesk\FixDeskBackend\FixDesk.DataAccess\obj\Debug\net10.0\FixDesk.DataAccess.csproj.CoreCompileInputs.cache
+E:\FixDesk\FixDeskBackend\FixDesk.DataAccess\obj\Debug\net10.0\FixDesk..91583729.Up2Date
+E:\FixDesk\FixDeskBackend\FixDesk.DataAccess\obj\Debug\net10.0\FixDesk.DataAccess.dll
+E:\FixDesk\FixDeskBackend\FixDesk.DataAccess\obj\Debug\net10.0\refint\FixDesk.DataAccess.dll
+E:\FixDesk\FixDeskBackend\FixDesk.DataAccess\obj\Debug\net10.0\FixDesk.DataAccess.pdb
+E:\FixDesk\FixDeskBackend\FixDesk.DataAccess\obj\Debug\net10.0\FixDesk.DataAccess.genruntimeconfig.cache
+E:\FixDesk\FixDeskBackend\FixDesk.DataAccess\obj\Debug\net10.0\ref\FixDesk.DataAccess.dll
